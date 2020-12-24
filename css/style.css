@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-nav {
+    margin-left: 20%;
+}
+
+.d-flex {
+    margin-right: 20%;
+}
+
+.navbar-brand {
+    margin-left: 7%;
+}
+
+.navbar {
+    padding: 20px;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 30%;
+    left: 0;
+    width: 100%;
+}
+
+.btn {
+    padding: 10px;
+}
+
+.form-control-borderless {
+    border: none;
+}
+
+.form-control-borderless:hover,
+.form-control-borderless:active,
+.form-control-borderless:focus {
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
